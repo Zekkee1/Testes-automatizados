@@ -29,6 +29,11 @@ a automação.
     <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/sauce_demo"> sauce demo</a></td>
     
   </tr>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/Swagger_API"> Swagger API</a></td>
+    
+  </tr>
 </table>
 
 ### Projetos - Selenium

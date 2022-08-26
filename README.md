@@ -18,7 +18,7 @@ a automação.
 <table>
   <tr>
     <td>Framework</td>
-    <td>Metodo do teste</td>
+    <td>Método do teste</td>
     
   </tr>
   <tr>

@@ -9,23 +9,32 @@ Bem Vindo(a) ao meu repositório
 ## Descrição
 este repositório contem alguns dos meus projetos desenvolvidos e em desenvolvimento
 utilizando automação de testes Web.
-Cada pasta corresponde a um projeto e dentro desta pasta existe um arquivo Readme.md mostrando como rodar a automação e explicar
-o codigo linha por linha.
+Cada pasta corresponde a um projeto e dentro desta pasta existe um arquivo Readme.md que contem uma descrição resumida do projeto e um preview com gif rodando
+a automação.
 
 ## Use a tabela abaixo para facilitar a navegação no repositório:
+
+### Projetos - Cypress
 <table>
   <tr>
-    <td>Projeto</td>
-    <td>Readme</td>
+    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/automation_practice"> automation practice</a></td>
+    
   </tr>
     <tr>
-    <td>Cypress</td>
-    <td>Documentação</td>
+    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/buger_eats"> buger eats</a></td>
+    
   </tr>
     </tr>
     <tr>
-    <td>Selenium</td>
-    <td>Documentação</td>
+    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/sauce_demo"> sauce demo</a></td>
+    
+  </tr>
+</table>
+
+### Projetos - Selenium
+<table>
+  <tr>
+    <td><a href="https://github.com/Zekkee1/projetos/tree/main/Selenium">sauce demo</a></td>
   </tr>
 
 </table>

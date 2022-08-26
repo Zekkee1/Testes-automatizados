@@ -4,7 +4,7 @@ Projeto Swagger_API - Cypress
 
 
 ## Descrição
-este projeto consiste em realizar o teste automatizado na API de um site que simula APIS desenvolvido para estudos.
+este projeto foi desenvolvido apenas para estudos que consiste em realizar o teste automatizado na API de um site que simula APIS.
 
 
 ## ferramentas

@@ -49,7 +49,7 @@ a automação.
     
   </tr>
     <tr>
-    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.swaglabs"> buger eats</a></td>
+    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.swaglabs"> Swag labs</a></td>
     <td>E2E</td>
   </tr>
 

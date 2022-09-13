@@ -17,7 +17,7 @@ a automação.
 ### Projetos - Cypress
 <table>
   <tr>
-    <td>Framework</td>
+    <td>Projeto</td>
     <td>Método do teste</td>
     
   </tr>
@@ -44,8 +44,13 @@ a automação.
 ### Projetos - Selenium
 <table>
   <tr>
-    <td><a href="https://github.com/Zekkee1/projetos/tree/main/Selenium">sauce demo</a></td>
+    <td>Projeto</td>
+    <td>Método do teste</td>
     
+  </tr>
+    <tr>
+    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.swaglabs"> buger eats</a></td>
+    <td>E2E</td>
   </tr>
 
 </table>

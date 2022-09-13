@@ -9,7 +9,7 @@ e esta sendo executados  somente fluxo positivo.
 
 ## ferramentas
 <ul>
-  <li>IntelliJ IDEA/li>
+  <li>IntelliJ IDEA</li>
   <li>JAVA</li>
   <li>Selenium</li>
   <li>Junit</li>

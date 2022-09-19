@@ -23,21 +23,21 @@ a automação.
   </tr>
   <tr>
     <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/automation_practice"> automation practice</a></td>
-    <td>E2E</td>
+    
   </tr>
     <tr>
     <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/buger_eats"> buger eats</a></td>
-    <td>E2E</td>
+    
   </tr>
     </tr>
     <tr>
     <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/sauce_demo"> sauce demo</a></td>
-    <td>E2E</td>
+    
   </tr>
     </tr>
     <tr>
     <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/Swagger_API"> Swagger API</a></td>
-    <td>API</td>
+    
   </tr>
 </table>
 
@@ -50,7 +50,7 @@ a automação.
   </tr>
     <tr>
     <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.swaglabs"> Swag labs</a></td>
-    <td>E2E</td>
+    
   </tr>
 
 </table>

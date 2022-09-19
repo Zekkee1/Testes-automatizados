@@ -18,7 +18,7 @@ a automação.
 <table>
   <tr>
     <td>Projeto</td>
-    <td>Método do teste</td>
+    
     
   </tr>
   <tr>
@@ -45,7 +45,7 @@ a automação.
 <table>
   <tr>
     <td>Projeto</td>
-    <td>Método do teste</td>
+    
     
   </tr>
     <tr>

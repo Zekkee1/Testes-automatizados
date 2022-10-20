@@ -1,10 +1,10 @@
 #language:pt
   Funcionalidade: Login
-    o usuario devera efetuar o loguin na aplicação
+    o usuario devera efetuar o login na aplicação
 
     Como um usuario já cadastrado na aplicação
     Eu quero inserir meus dados cadastrais
-    Para realizar o loguin na aplicação
+    Para realizar o login na aplicação
 
     @testeswaglabs
   Cenário: realizar o login na aplicação

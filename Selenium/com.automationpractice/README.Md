@@ -1,5 +1,5 @@
 <h1 align="center">
-Projeto Automation Practice - Selenium
+Projeto Your Logo - Selenium
 </h1>
 
 

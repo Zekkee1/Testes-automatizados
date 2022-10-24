@@ -45,11 +45,14 @@ a automação.
 <table>
   <tr>
     <td>Projeto</td>
-    
-    
   </tr>
     <tr>
     <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.swaglabs"> Swag labs</a></td>
+    
+  </tr>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.automationpractice">Your Logo </a></td>
     
   </tr>
 

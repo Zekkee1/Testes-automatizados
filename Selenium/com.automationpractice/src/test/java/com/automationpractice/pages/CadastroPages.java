@@ -2,7 +2,7 @@ package com.automationpractice.pages;
 
 import org.openqa.selenium.By;
 
-public class RegistroPages {
+public class CadastroPages {
     //validate email
     By emailField = By.cssSelector("#email_create");
     By submitButton = By.cssSelector("#SubmitCreate");

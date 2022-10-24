@@ -1,6 +1,6 @@
 package com.automationpractice.steps;
 
-import com.automationpractice.funcs.RegistroFuncs;
+import com.automationpractice.funcs.CadastroFuncs;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.pt.Dado;
 import io.cucumber.java.pt.Entao;
@@ -11,8 +11,8 @@ import java.util.List;
 import java.util.Map;
 
 
-public class RegistroSteps {
-    RegistroFuncs registroFuncs = new RegistroFuncs();
+public class CadastroSteps {
+    CadastroFuncs cadastroFuncs = new CadastroFuncs();
 
     @Dado("estiver na pagina de registro")
     public void estiver_na_pagina_de_registro() {
@@ -25,12 +25,12 @@ public class RegistroSteps {
         String lastname = usuario.get(0).get("last_name");
         String password = usuario.get(0).get("password");
 
-        registroFuncs.createAccount(email,firstname,lastname,password);
+        cadastroFuncs.createAccount(email,firstname,lastname,password);
     }
     @Entao("devo visualizar o usuario {string} logado")
     public void devo_visualizar_o_usuario(String usuario) {
         Assert.assertEquals(usuario,
-                registroFuncs.userEquals());
+                cadastroFuncs.userEquals());
     }
 
     //Bad Scenario
@@ -38,12 +38,12 @@ public class RegistroSteps {
     public void inserir_email_invalido(DataTable dataTable){
         List<Map<String,String>> usuarioinv = dataTable.asMaps();
         String email = usuarioinv.get(0).get("email");
-        registroFuncs.invalidemail(email);
+        cadastroFuncs.invalidemail(email);
 
     }
     @Entao("devo visualizar a mensagem de error {string}")
     public void devo_visualizar_a_mensagem_de_erro(String error){
-        Assert.assertEquals(error, registroFuncs.emailerror());
+        Assert.assertEquals(error, cadastroFuncs.emailerror());
         }
 }
 

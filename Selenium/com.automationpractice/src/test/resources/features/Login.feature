@@ -1,4 +1,5 @@
 #language:pt
+
 Funcionalidade: login
   com esta funcionalidade o usuario conseguira efetuar o login na aplicação
 
@@ -17,7 +18,7 @@ Funcionalidade: login
       | teste337445@gmail.com | test1234 |
     Então devo visualizar o user "lucas me" logado
 
-  @invalidLogin
+  @loginInvalido
   Esquema do Cenário: validar mensagem de erro ao inserir dados incorretos
     Quando inserir os dados do usuario
       | email           | senha   |

@@ -1,5 +1,5 @@
 #language:pt
-#encondi
+
   Funcionalidade: checkout
   com esta funcionalidade o usuario podera efetuar a compra de um produto selecionado
 
@@ -8,7 +8,7 @@
   Eu  quero selecionar um produto
   Para  efetuar uma compra
 
-  Background:
+  Contexto:
     Dado estiver logado na aplicação
 
   @checkout

@@ -7,23 +7,22 @@ Funcionalidade: cadastro
   Eu quero inserir meus dados
   Para realizar o cadastro na aplicação
 
-
   Contexto:
     Dado estiver na pagina de registro
 
   @registro
-  Cenário: : realizar cadastro na aplicacao
+  Cenario: realizar cadastro na aplicacao
     Quando inserir todos os dados obrigatorios para registro
       | email                    | First_name | last_name | password |
       | teste3374455335@gmail.com | lucas      | men       | teste123 |
-    Então devo visualizar o usuario "lucas men" logado
+    Entao devo visualizar o usuario "lucas men" logado
 
   @registroErro
-  Cenário: : validar mensagem de erro ao inserir email invalido
+  Cenario: validar mensagem de erro ao inserir email invalido
     Quando inserir um email invalido
       | email     |
       | teste.com |
-    Então devo visualizar a mensagem de error "Invalid email address."
+    Entao devo visualizar a mensagem de error "Invalid email address."
 
 
 

@@ -1,4 +1,5 @@
-Feature: cadastro
+#language:pt
+Funcionalidade: cadastro
   com esta funcionalidade o usuario conseguira efetuar o cadastro na aplicação
 
   Como novo usuario
@@ -6,22 +7,22 @@ Feature: cadastro
   Para realizar o cadastro na aplicação
 
 
-  Background:
-    Given estiver na pagina de registro
+  Contexto: :
+    Dado estiver na pagina de registro
 
   @register
-  Scenario: realizar cadastro na aplicacao
-    When inserir todos os dados obrigatorios para registro
+  Cenário: : realizar cadastro na aplicacao
+    Quando inserir todos os dados obrigatorios para registro
       | email                    | First_name | last_name | password |
-      | teste337445535@gmail.com | lucas      | men       | teste123 |
-    Then devo visualizar o usuario "lucas men" logado
+      | teste3374455335@gmail.com | lucas      | men       | teste123 |
+    Então devo visualizar o usuario "lucas men" logado
 
   @registerEmailFailure
-  Scenario: validar mensagem de erro ao inserir email invalido
-    When inserir um email invalido
+  Cenário: : validar mensagem de erro ao inserir email invalido
+    Quando inserir um email invalido
       | email     |
       | teste.com |
-    Then devo visualizar a mensagem de error "Invalid email address."
+    Então devo visualizar a mensagem de error "Invalid email address."
 
 
 

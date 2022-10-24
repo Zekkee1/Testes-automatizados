@@ -1,4 +1,6 @@
-Feature: Chockout
+#language:pt
+#encondi
+  Funcionalidade: checkout
   com esta funcionalidade o usuario podera efetuar a compra de um produto selecionado
 
 
@@ -7,9 +9,9 @@ Feature: Chockout
   Para  efetuar uma compra
 
   Background:
-    Given estiver logado na aplicação
+    Dado estiver logado na aplicação
 
   @checkout
-    Scenario: realizar uma compra
-      When selecionar um produto e confirmar meus dados
-      Then deve visualizar a mensagem "Your order on My Store is complete." de compra efetuada com sucesso
+    Cenário: realizar uma compra
+      Quando selecionar um produto e confirmar meus dados
+      Então deve visualizar a mensagem "Your order on My Store is complete." de compra efetuada com sucesso

@@ -13,7 +13,7 @@ Feature: cadastro
   Scenario: realizar cadastro na aplicacao
     When inserir todos os dados obrigatorios para registro
       | email                    | First_name | last_name | password |
-      | teste337445535@gmail.com | lucas      | men       | teste123 |
+      | teste3374455335@gmail.com | lucas      | men       | teste123 |
     Then devo visualizar o usuario "lucas men" logado
 
   @registerEmailFailure

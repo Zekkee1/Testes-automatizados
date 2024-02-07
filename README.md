@@ -65,6 +65,6 @@ a automação.
     <td>Projeto</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.swaglabs](https://github.com/Zekkee1/Testes-automatizados/tree/main/processo%20de%20teste%20de%20software/your%20logo)https://github.com/Zekkee1/Testes-automatizados/tree/main/processo%20de%20teste%20de%20software/your%20logo"> Your Logo</a></td>
+    <td><a href="https://github.com/Zekkee1/Testes-automatizados/tree/main/processo%20de%20teste%20de%20software/your%20logo"> Your Logo</a></td>
     
 </table>

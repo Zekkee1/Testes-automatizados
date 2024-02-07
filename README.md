@@ -57,3 +57,14 @@ a automação.
   </tr>
 
 </table>
+
+### ciclo de vida de testes 
+
+<table>
+  <tr>
+    <td>Projeto</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.swaglabs"> Your Logo</a></td>
+    
+</table>

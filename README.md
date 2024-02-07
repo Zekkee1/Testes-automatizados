@@ -58,7 +58,7 @@ a automação.
 
 </table>
 
-### ciclo de vida de testes 
+### Ciclo de vida dos testes 
 
 <table>
   <tr>

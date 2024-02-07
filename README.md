@@ -14,7 +14,7 @@ a automação.
 
 ## Use a tabela abaixo para facilitar a navegação no repositório:
 
-### Projetos - Cypress
+### Cypress
 <table>
   <tr>
     <td>Projeto</td>
@@ -41,7 +41,7 @@ a automação.
   </tr>
 </table>
 
-### Projetos - Selenium
+### Selenium
 <table>
   <tr>
     <td>Projeto</td>
